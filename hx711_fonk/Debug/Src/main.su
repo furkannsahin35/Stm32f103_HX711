@@ -1,0 +1,7 @@
+main.c:72:5:main	16	static
+main.c:120:6:SystemClock_Config	72	static
+main.c:158:13:MX_GPIO_Init	32	static
+main.c:185:10:Hx_SingleRead_Value	32	static
+main.c:213:11:Hx_AvgRead_Value	24	static
+main.c:224:11:Hx_Get_Value	32	static
+main.c:238:6:Error_Handler	4	static
