@@ -1,12 +1,12 @@
 # Stm32f103_HX711
 Load sensor -HX711 -stm32f103c8 
 -----------------------------------------------------------------------------------
-Included dwt_delay library for microseconds delay.
-Included CubeMX part
+* Included dwt_delay library for microseconds delay.
+* Included CubeMX part
 ------------------------------------------------------------------------------------
--> With no load start than add some weight .
-->Change your scale value untill get right value.
--> Datas are affecting from noise so much thats why be carefull about connections.
+* With no load start than add some weight .
+* Change your scale value untill get right value.
+* Datas are affecting from noise so much thats why be carefull about connections.
 -------------------------------------------------------------------------------------
 * RED   -> A+
 * BLACK -> E-
