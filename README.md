@@ -8,11 +8,12 @@ Included CubeMX part
 ->Change your scale value untill get right value.
 -> Datas are affecting from noise so much thats why be carefull about connections.
 -------------------------------------------------------------------------------------
--> RED   -> A+
--> BLACK -> E-
--> WHITE -> E+
-->BLACK SERIES 1K (parallel with) WHITE SERIES 1 K  -->  A-
--> VCC  ->  +5V (Use External vcc)    
--> GND ->   GND 
--> SCK ->  PA9
--> DT  -> PA10
+* RED   -> A+
+* BLACK -> E-
+* WHITE -> E+
+* BLACK SERIES 1K (parallel with) WHITE SERIES 1 K  -->  A-
+* VCC  ->  +5V (Use External vcc)    
+* GND ->   GND 
+* SCK ->  PA9
+* DT  -> PA10
+-----------------------------------------------------------------------------------------
