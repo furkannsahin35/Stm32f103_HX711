@@ -17,10 +17,7 @@ PA10 PIN -> DATA PIN
 -> RED   -> A+
 -> BLACK -> E-
 -> WHITE -> E+
- 
-    BLACK SERIES 1K 
-->(parallel)          -->  A-
-    WHITE SERIES 1 K  
+->BLACK SERIES 1K (parallel with) WHITE SERIES 1 K  -->  A-
 -> VCC  ->  +5V (Use External vcc)    
 -> GND ->   GND 
 -> SCK ->  PA9
